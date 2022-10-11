@@ -1,0 +1,15 @@
+C:\Users\Настя\source\repos\sortirovki\sortirovki\bin\Debug\net6.0\sortirovki.exe
+C:\Users\Настя\source\repos\sortirovki\sortirovki\bin\Debug\net6.0\sortirovki.deps.json
+C:\Users\Настя\source\repos\sortirovki\sortirovki\bin\Debug\net6.0\sortirovki.runtimeconfig.json
+C:\Users\Настя\source\repos\sortirovki\sortirovki\bin\Debug\net6.0\sortirovki.dll
+C:\Users\Настя\source\repos\sortirovki\sortirovki\bin\Debug\net6.0\sortirovki.pdb
+C:\Users\Настя\source\repos\sortirovki\sortirovki\obj\Debug\net6.0\sortirovki.csproj.AssemblyReference.cache
+C:\Users\Настя\source\repos\sortirovki\sortirovki\obj\Debug\net6.0\sortirovki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Настя\source\repos\sortirovki\sortirovki\obj\Debug\net6.0\sortirovki.AssemblyInfoInputs.cache
+C:\Users\Настя\source\repos\sortirovki\sortirovki\obj\Debug\net6.0\sortirovki.AssemblyInfo.cs
+C:\Users\Настя\source\repos\sortirovki\sortirovki\obj\Debug\net6.0\sortirovki.csproj.CoreCompileInputs.cache
+C:\Users\Настя\source\repos\sortirovki\sortirovki\obj\Debug\net6.0\sortirovki.dll
+C:\Users\Настя\source\repos\sortirovki\sortirovki\obj\Debug\net6.0\refint\sortirovki.dll
+C:\Users\Настя\source\repos\sortirovki\sortirovki\obj\Debug\net6.0\sortirovki.pdb
+C:\Users\Настя\source\repos\sortirovki\sortirovki\obj\Debug\net6.0\sortirovki.genruntimeconfig.cache
+C:\Users\Настя\source\repos\sortirovki\sortirovki\obj\Debug\net6.0\ref\sortirovki.dll
